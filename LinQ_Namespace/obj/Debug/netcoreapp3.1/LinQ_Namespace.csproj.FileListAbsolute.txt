@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\bin\Debug\netcoreapp3.1\LinQ_Namespace.exe
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\bin\Debug\netcoreapp3.1\LinQ_Namespace.deps.json
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\bin\Debug\netcoreapp3.1\LinQ_Namespace.runtimeconfig.json
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\bin\Debug\netcoreapp3.1\LinQ_Namespace.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\bin\Debug\netcoreapp3.1\LinQ_Namespace.dll
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\bin\Debug\netcoreapp3.1\LinQ_Namespace.pdb
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\obj\Debug\netcoreapp3.1\LinQ_Namespace.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\obj\Debug\netcoreapp3.1\LinQ_Namespace.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\obj\Debug\netcoreapp3.1\LinQ_Namespace.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\obj\Debug\netcoreapp3.1\LinQ_Namespace.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\obj\Debug\netcoreapp3.1\LinQ_Namespace.dll
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\obj\Debug\netcoreapp3.1\LinQ_Namespace.pdb
+C:\Users\Yasmin\source\repos\LinQ_Namespace\LinQ_Namespace\obj\Debug\netcoreapp3.1\LinQ_Namespace.genruntimeconfig.cache
